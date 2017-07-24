@@ -4,7 +4,7 @@ FROM richarvey/nginx-php-fpm
 MAINTAINER Marc Tanis "marc@blendimc.com"
 
 # Set craft cms version
-ENV CRAFT_VERSION=2.6 CRAFT_BUILD=2986
+ENV CRAFT_VERSION=2.6 CRAFT_BUILD=2987
 
 ENV CRAFT_ZIP=Craft-$CRAFT_VERSION.$CRAFT_BUILD.zip
 
