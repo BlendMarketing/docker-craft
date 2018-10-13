@@ -1,4 +1,4 @@
-FROM richarvey/nginx-php-fpm 
+FROM richarvey/nginx-php-fpm:1.3.10
 
 # Originally From https://github.com/wyveo/craftcms-docker
 MAINTAINER Marc Tanis "marc@blendimc.com"
